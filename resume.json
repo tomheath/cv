@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Dr Tom Heath",
+    "label": "Head of Research, Open Data Institute",
+    "website": "http://theodi.org/team/tom-heath",
+    "summary": "",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "tommyh",
+        "url": "https://twitter.com/tommyh"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Open Data Institute",
+      "position": "Head of Research",
+      "website": "http://theodi.org/",
+      "startDate": "2013-06-01",
+      "summary": "Responsible for: defining and executing on the research agenda of the Open Data Institute, drawing on multi-disciplinary methods and approaches from the computing-, data-, and social sciences to evaluate the impact of open data and to research data-centric solutions to forthcoming challenges in this field; building commercial and grant-funded research collaborations with external partners."
+    },
+    {
+      "company": "Open Data Institute",
+      "position": "Data Scientist",
+      "website": "http://theodi.org/",
+      "startDate": "2013-01-21",
+      "endDate": "2013-05-31",
+      "summary": "Responsible for: undertaking internal data science projects; building research capacity through winning grant-funding from external sources."
+    },
+    {
+      "company": "Talis Education Limited",
+      "position": "Senior Research/Data Scientist",
+      "website": "http://www.talis.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-14",
+      "summary": "Responsible for: internal, business-critical data science projects, working with large volumes of open and proprietary data to deliver data-driven insights to the rest of the company and to develop data-intensive products and services for end users (internal and external)."
+    },
+    {
+      "company": "Talis Systems Limited",
+      "position": "Lead Researcher",
+      "website": "http://www.talis.com/",
+      "startDate": "2008-01-14",
+      "endDate": "2011-12-31",
+      "summary": "Responsible for: conduct of internal research in the area of Linked Open Data and the Semantic Web, Recommender Systems and Human-Computer Interaction; definition and implementation of internal research priorities for the company; growing the internal research function and culture within the company; establishing a research internship programme."
+    },
+    {
+      "company": "UK Centre for Materials Education, University of Liverpool",
+      "position": "Web Developer, Senior Web Developer",
+      "website": "",
+      "startDate": "2000-10-01",
+      "endDate": "2004-09-30",
+      "summary": "Responsible for: supervision of staff engaged in technical development and content production; development and management of a number of database-driven Web sites; system administration of database and Web servers in the live and development environments; maintenance and development of internal network infrastructure."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Knowledge Media Institute, The Open University",
+      "area": "Information-seeking on the Web with Trusted Social Networks -- from Theory to Systems",
+      "studyType": "Doctor of Philosophy in Computer Science",
+      "startDate": "2004-10-01",
+      "endDate": "2008-01-11"
+    },
+    {
+      "institution": "The University of Liverpool",
+      "area": "Psychology (1st Class Hons)",
+      "studyType": "Bachelor of Science",
+      "startDate": "1997-10-01",
+      "endDate": "2000-06-30"
+    }
+  ],
+  "awards": [
+    { "title": "Best Doctoral Consortium Mentor", "date": "2011-10-27", "awarder": "International Semantic Web Conference" },
+    { "title": "Ten to Watch in Artificial Intelligence", "date": "2011-02-17", "awarder": "IEEE Intelligent Systems Magazine" },
+    { "title": "PhD of the Year 2008/9", "date": "2009-06-01", "awarder": "Semantic Technologies Institute International" },
+    { "title": "Winner, Semantic Web Challenge", "date": "2007-11-15", "awarder": "International Semantic Web Conference" },
+    { "title": "Gossage University Undergraduate Scholarship", "date": "1998-07-01", "awarder": "University of Liverpool" }
+  ]
+}
